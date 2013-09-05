@@ -34,7 +34,7 @@ text-decoration:none;
   </head>
   <body style="background:#83C340;position:relative;">
 	<div class="content">
-		<h1>434Studios</h1>
+		<h1>434studios</h1>
 <p style="padding:5px 10px 0px 20px;">
 	Our site will be up and running awesome things shortly!
 </p>
